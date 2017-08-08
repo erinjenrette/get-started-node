@@ -1,5 +1,5 @@
 ---
 applications:
- - name: SDK-First-Demo
+ - name: SDK-FirstDemo
    random-route: true
    memory: 256M
