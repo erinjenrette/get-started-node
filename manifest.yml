@@ -1,5 +1,5 @@
 ---
 applications:
- - name: GetStartedNode
+ - name: favapp1-ej-0817
    random-route: true
    memory: 256M
